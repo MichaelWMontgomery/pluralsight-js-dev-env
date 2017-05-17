@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 82748451,
+      "firstName": "Matilde",
+      "lastName": "Cormier",
+      "email": "Beverly.Jast23@hotmail.com"
+    },
+    {
+      "id": 51743674,
+      "firstName": "Kenton",
+      "lastName": "Robel",
+      "email": "Tina44@gmail.com"
+    },
+    {
+      "id": 3317012,
+      "firstName": "Otha",
+      "lastName": "Krajcik",
+      "email": "Bettie65@hotmail.com"
+    },
+    {
+      "id": 70901848,
+      "firstName": "Josefa",
+      "lastName": "Breitenberg",
+      "email": "Yvette_MacGyver@gmail.com"
+    }
+  ]
+}
